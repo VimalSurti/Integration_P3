@@ -331,6 +331,7 @@ form{
     background-color: #84c99d;
     color: #f0fbeb;
     width: 10%;
+    cursor: pointer;
 }
 .search-bar p{
     /* background-color: cadetblue; */
